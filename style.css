@@ -1,0 +1,17 @@
+form{
+    padding: 3%;
+    background-color: aliceblue;
+}
+
+.btn-menu{
+    display: flex;
+}
+
+.form-table{
+    padding: 3%;
+    background-color: aliceblue;    
+}
+
+.btn-primary{
+    margin: 2%;
+}
